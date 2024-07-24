@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tastebuds</string>
+    <string name="popular_recipes">Popular Recipes</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="title">Healthy Taco Salad</string>
+    <string name="items">6 Items</string>
+    <string name="measures">3 Ltr</string>
+    <string name="duration">15 Min</string>
+    <string name="description">This Healthy Taco Salad is the universal delight of taco night, this Healthy Taco Salad is the universal delight of taco night. This Healthy Taco Salad is the universal delight of taco night.</string>
+    <string name="view_link">View on YouTube</string>
+</resources>
